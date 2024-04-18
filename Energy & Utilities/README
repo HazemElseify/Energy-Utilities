@@ -1,0 +1,24 @@
+Energy & Utilities Analysis Dashboards
+Welcome to the Energy & Utilities Analysis Dashboards repository. This project includes a comprehensive set of dashboards that provide insights into the usage and trends of various property types across different time periods.
+
+Overview
+This repository contains data visualization dashboards focused on the energy and utility usage in properties of various types. Our aim is to offer stakeholders clear insights for better decision-making and resource management.
+
+Property Type Analysis Dashboard
+The Property Type Analysis Dashboard provides a breakdown of energy usage across different property tiers and types. The dashboard includes:
+
+Usage Overview by Property Type and Units
+Average Usage Trend by Total Units
+Property Type Distribution
+Average Usage Trend by Property Type
+Time Series Analysis Dashboard
+The Time Series Analysis Dashboard offers a detailed time series analysis of energy usage, presenting data such as:
+
+Average Usage by Quarter
+Month-over-Month (MoM) Change Percentage
+Quarter and Year Comparison Metrics
+Contents
+The repository consists of the following files:
+
+property_type_analysis_dashboard.png: A screenshot of the Property Type Analysis Dashboard.
+time_series_analysis_dashboard.png: A screenshot of the Time Series Analysis Dashboard.
